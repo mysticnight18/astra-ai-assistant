@@ -1,0 +1,26 @@
+# ── Personal data — never commit ──────────────────────────
+astra_memory.json
+voice_profile.npy
+.env
+
+# ── Python ─────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+.Python
+venv/
+env/
+*.egg-info/
+
+# ── macOS ──────────────────────────────────────────────────
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# ── Editor / IDE ───────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+
+# ── Logs ───────────────────────────────────────────────────
+*.log

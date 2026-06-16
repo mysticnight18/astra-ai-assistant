@@ -1,0 +1,10 @@
+google-genai
+SpeechRecognition
+pyaudio
+pyttsx3
+openwakeword
+rumps
+pynput
+resemblyzer
+numpy
+requests
